@@ -1,0 +1,11 @@
+*
+!.babelrc
+!lib
+!meta.js
+!next.config.js
+!package-lock.json
+!pages
+!rollup.config.js
+!src
+!static
+!next-components
